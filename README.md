@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a software engineer focused more on Backend developemnt with over one year of experience, and I'm passionate about creating fast, scalable, and secure web applications. I also love creating low level softwares and APIs<br><br>Technical Skills<br>Programming languages: Python, JavaScript, C++, C#<br>Web development frameworks: Django, Flask, FastApi, Node Js<br>Front-end technologies: HTML5, Vanilla CSS, JavaScript, jQuery, React Js, React Js w Typescript<br>Database technologies: PostgreSQL, MySQL, MongoDB<br>Version control: Git
+Hi there! 👋<br>I'm a software engineer focused more on Backend developement with over one year of experience, and I'm passionate about creating fast, scalable, and secure web applications. I also love creating low level softwares and APIs<br><br>Technical Skills<br>Programming languages: Python, JavaScript, C++, C#<br>Web development frameworks: Django, Flask, FastApi, Node Js<br>Front-end technologies: HTML5, Vanilla CSS, JavaScript, jQuery, React Js, React Js w Typescript<br>Database technologies: PostgreSQL, MySQL, MongoDB<br>Version control: Git
 
 
 ## 🌐 Socials:
